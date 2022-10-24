@@ -1,0 +1,98 @@
+.sidemenu
+{
+    list-style-type: none;
+   
+}
+.sidemenu li
+{
+  margin-top: 2px;
+  height: 30px;
+  background-color: rgb(13, 204, 218);
+  color: rgb(253, 250, 250);
+  padding-left: 9px;
+}
+
+.sidemenu li:hover
+{
+  background-color: #54555e;
+  color: aliceblue;
+}
+.sidediv
+{
+    margin-left: 2px;
+}
+.body
+{
+    margin-top: 3px;
+    margin-right: 8px;
+    
+}
+.futa
+{
+    margin-top: 300px;
+}
+.normalprice
+{
+  color: rgb(197, 99, 18);
+  font-size: small;
+}
+.offerprice
+{
+  color: rgb(167, 10, 240);
+  font-size: small;
+}
+.availability
+{
+  font-size: smaller;
+  color: lightseagreen;
+}
+
+/*For Courasel*/
+/*search box css start here*/
+.search-sec{
+  padding: 2rem;
+}
+.search-slt{
+  display: block;
+  width: 100%;
+  font-size: 0.875rem;
+  line-height: 1.5;
+  color: #55595c;
+  background-color: #fff;
+  background-image: none;
+  border: 1px solid #ccc;
+  height: calc(3rem + 2px) !important;
+  border-radius:0;
+}
+.wrn-btn{
+  width: 100%;
+  font-size: 16px;
+  font-weight: 400;
+  text-transform: capitalize;
+  height: calc(3rem + 2px) !important;
+  border-radius:0;
+}
+.futa {
+   
+   bottom:0;
+   width:100%;
+ /* Height of the footer */
+   background:#6cf;
+  
+}
+/*
+@media (min-width: 992px){
+  .search-sec{
+      position: relative;
+      top: -114px;
+      background: rgba(26, 70, 104, 0.51);
+  }
+}
+
+@media (max-width: 992px){
+  .search-sec{
+      background: #1A4668;
+  }
+}*/
+
+/*End for Courasel*/
